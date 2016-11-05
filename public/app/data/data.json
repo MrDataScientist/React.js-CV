@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Tarik En Nakdi",
+    "label": "Full Stack Developer",
+    "picture": "",
+    "email": "t.ennakdi@gmail.com",
+    "phone": "123456789",
+    "website": "http://mrdatascientist.esy.es/resume.html",
+    "summary": "<p>test</p><p>I specialise in Front-end HTML/CSS/JS, Back-end PHP/MySQL, WordPress & Laravel development.</p><p>I have worked with a vast array of clients including: JLEC, BMCE, Nixly, CNRS, CGI, Capgemini, and International Olympic Committee.</p>",
+    "location": {
+      "address": "21 Dresdner straße",
+      "postalCode": "00414",
+      "city": "Leipzig",
+      "countryCode": "Germany",
+      "region": "Saxony"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "t.nakdi",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "Mr.Data scientist",
+        "url": "https://github.com/MrDataScientist"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Mr.Data scientist",
+        "url": "https://www.linkedin.com/in/tarik-en-nakdi-88414131?trk=nav_responsive_tab_profile_pic"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Beamlabs",
+      "position": "Big Data Developer",
+      "website": "https://google.com",
+      "startDate": "June 2015",
+      "endDate": "December 2015",
+      "summary": "Building a PaaS (Platform as a Service)  for IoT using the framework Django and HBase. Architect and scale the data analytics platform. Comprehensive database management using OpenERP. Creating automation for ingesting and serving data to / from our users. Creating prediction models. Using machine learning to build a recomendation engine.",
+      "highlights": [
+        {
+          "summary": "Web Development"
+        },
+        {
+          "summary": "Web Development"
+        },
+        {
+          "summary": "Web Development"
+        }
+      ]
+    },
+    {
+      "company": "CNRS",
+      "position": "job position",
+      "website": "www.cnrs.com",
+      "startDate": "Mars 2014",
+      "endDate": "October 2014",
+      "summary": "<p>Design and implementation of a database for the needs of the research centres according to the specifications defined. Development of a web platform to facilitate data storage with a general and engines several criteria. Participation in the acceptance phase after the development of the solution.</p>",
+      "highlights": [
+        {
+          "summary": "Web Development"
+        },
+        {
+          "summary": "Web Development"
+        },
+        {
+          "summary": "Web Development"
+        }
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
